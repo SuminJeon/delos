@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Delos</string>
+    <string name="kakao_app_key">906e4811bc874f21e111245ce20cee74</string>
+
+    <!--메인 액티비티-->
+    <string name="team_view_title">나의 델로스(팀플)</string>
+
+    <string name="plan_view_title">다가오는 일정</string>
+
+    <string name="survey_view_title">오늘의 설문</string>
+
 </resources>
